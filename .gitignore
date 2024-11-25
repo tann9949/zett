@@ -10,3 +10,4 @@ bucket
 slurm-*
 
 __pycache__
+venv

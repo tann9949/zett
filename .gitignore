@@ -10,3 +10,6 @@ slurm-*
 
 __pycache__
 venv
+
+*.ipynb*
+.Trash*
